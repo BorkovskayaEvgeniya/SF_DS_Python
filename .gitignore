@@ -1,3 +1,6 @@
+ufo.csv
+#игнорируем изменения в файле ufo.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
