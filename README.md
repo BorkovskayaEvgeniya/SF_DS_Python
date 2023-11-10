@@ -21,7 +21,7 @@
 - Учимся работать с GitHub.
 
 ### 4. Результат
-Финальный код представлен по [ссылке](Borkovskaya_HW3.ipynb).   
+Финальный код представлен по [ссылке](https://github.com/BorkovskayaEvgeniya/SF_DS_Python/blob/main/Borkovskaya_HW3.ipynb).   
 Алгоритм угадывает число в среднем за 6 попыток.
 
 
